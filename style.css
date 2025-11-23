@@ -25,4 +25,10 @@ a.link-button {
 
 a.link-button:hover {
     background-color: #0047b3;
+    img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
 }
